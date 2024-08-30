@@ -1,0 +1,10 @@
+white list
+  - entities to be accepted
+
+black list
+  - entities to be rejected
+
+Mathematical analysis for an algorthim always assumes for the worst outcome
+
+Binary Search Algorithm
+Notation. a[lo, hi)
